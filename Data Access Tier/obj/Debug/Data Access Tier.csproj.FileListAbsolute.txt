@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\Data Access Tier\obj\Debug\Data Access Tier.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Data Access Tier\obj\Debug\Data Access Tier.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Data Access Tier\bin\Debug\Data Access Tier.dll
+C:\Users\USER\source\repos\Data Access Tier\bin\Debug\Data Access Tier.pdb
+C:\Users\USER\source\repos\Data Access Tier\obj\Debug\Data Access Tier.dll
+C:\Users\USER\source\repos\Data Access Tier\obj\Debug\Data Access Tier.pdb
+C:\Users\USER\Desktop\Course 19 - Project\Data Access Tier\bin\Debug\Data Access Tier.dll
+C:\Users\USER\Desktop\Course 19 - Project\Data Access Tier\bin\Debug\Data Access Tier.pdb
+C:\Users\USER\Desktop\Course 19 - Project\Data Access Tier\obj\Debug\Data Access Tier.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Course 19 - Project\Data Access Tier\obj\Debug\Data Access Tier.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Course 19 - Project\Data Access Tier\obj\Debug\Data Access Tier.dll
+C:\Users\USER\Desktop\Course 19 - Project\Data Access Tier\obj\Debug\Data Access Tier.pdb

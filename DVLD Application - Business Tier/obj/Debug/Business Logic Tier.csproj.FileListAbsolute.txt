@@ -1,0 +1,18 @@
+C:\Users\USER\source\repos\DVLD Application - Business Tier\bin\Debug\DVLD Application - Business Tier.dll
+C:\Users\USER\source\repos\DVLD Application - Business Tier\bin\Debug\DVLD Application - Business Tier.pdb
+C:\Users\USER\source\repos\DVLD Application - Business Tier\obj\Debug\Business Logic Tier.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\DVLD Application - Business Tier\obj\Debug\Business Logic Tier.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DVLD Application - Business Tier\obj\Debug\DVLD Application - Business Tier.dll
+C:\Users\USER\source\repos\DVLD Application - Business Tier\obj\Debug\DVLD Application - Business Tier.pdb
+C:\Users\USER\source\repos\DVLD Application - Business Tier\bin\Debug\Data Access Tier.dll
+C:\Users\USER\source\repos\DVLD Application - Business Tier\bin\Debug\Data Access Tier.pdb
+C:\Users\USER\source\repos\DVLD Application - Business Tier\obj\Debug\Business.31081C30.Up2Date
+C:\Users\USER\Desktop\Course 19 - Project\DVLD Application - Business Tier\bin\Debug\DVLD Application - Business Tier.dll
+C:\Users\USER\Desktop\Course 19 - Project\DVLD Application - Business Tier\bin\Debug\DVLD Application - Business Tier.pdb
+C:\Users\USER\Desktop\Course 19 - Project\DVLD Application - Business Tier\bin\Debug\Data Access Tier.dll
+C:\Users\USER\Desktop\Course 19 - Project\DVLD Application - Business Tier\bin\Debug\Data Access Tier.pdb
+C:\Users\USER\Desktop\Course 19 - Project\DVLD Application - Business Tier\obj\Debug\Business Logic Tier.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Course 19 - Project\DVLD Application - Business Tier\obj\Debug\Business Logic Tier.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Course 19 - Project\DVLD Application - Business Tier\obj\Debug\Business.31081C30.Up2Date
+C:\Users\USER\Desktop\Course 19 - Project\DVLD Application - Business Tier\obj\Debug\DVLD Application - Business Tier.dll
+C:\Users\USER\Desktop\Course 19 - Project\DVLD Application - Business Tier\obj\Debug\DVLD Application - Business Tier.pdb
